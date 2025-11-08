@@ -53,9 +53,7 @@
     "vite": "6.3.5",
     "patch-package": "^8.0.0"
   },
-  "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
+ "scripts": {
+  "build": "vite build"
 }
 }
